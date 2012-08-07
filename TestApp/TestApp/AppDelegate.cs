@@ -26,7 +26,7 @@ namespace TestApp
 		public override bool FinishedLaunching (UIApplication app, NSDictionary options)
 		{
 
-
+			//test van chris
 
 
 			// create a new window instance based on the screen size
